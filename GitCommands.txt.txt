@@ -16,3 +16,12 @@ git commit -M "Message"
 # 3. Push to remote repo
 
 git push
+
+# 4. create branch
+
+git checkout -b branchname
+
+# to return to master branch
+
+git checkout master
+
