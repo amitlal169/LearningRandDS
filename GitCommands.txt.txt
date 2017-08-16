@@ -1,0 +1,18 @@
+#This file will have all the GIT related commands, I learn as and when, I progress the course in coursera.
+
+#Date: 16/08/2017
+
+# 1. adds a new file, and track for updates in name or content of file
+
+git add .
+git add -U
+git add -A
+
+
+# 2. Commit command with a message. This is committed only to local.
+
+git commit -M "Message"
+
+# 3. Push to remote repo
+
+git push
